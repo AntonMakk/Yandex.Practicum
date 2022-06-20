@@ -1,6 +1,6 @@
 `tableu`
 
-# Тема: "Автоматизация"
+# Курс: "Автоматизация"
 # Учебный проект: "Дашборд для Яндекс.Дзен"
 
 <a href = 'https://public.tableau.com/app/profile/anton1119/viz/UserinteractionwithYandex_Zen/Yandex_Zen' target="_blank">Ссылка на Дашборд</a>
