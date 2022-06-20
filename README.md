@@ -8,8 +8,8 @@
     <tr>
        <td><b>№</b></td>
        <td><b>Название проекта</b></td>
-       <td><b>Описание</b></td> 
-       <td><b>Использованные инструменты и библиотеки</b></td> 
+       <td><b>Курс</b></td> 
+       <td><b>Инструменты / библиотеки</b></td> 
    </tr> 
 </thead>
 <tbody  valign="top">
@@ -17,199 +17,157 @@
        <td>1</td>
        <td>
           <b>
-             <a href="#">
-             Исследование надежности заемщиков</a>
+             <a href="https://github.com/AntonMakk/Yandex.Practicum/tree/main/1.Borrower%20reliability%20study">
+             Исследование надёжности заёмщиков</a>
           </b>
      </td>
      <td>
-        Определил, какие факторы и каким образом влияют на способность клиента банка погасить кредит в срок.
+        Исследовательский анализ данных.
     </td>
     <td>
         <code>pandas</code><br/>
         <code>pymystem3</code><br/>
-        <code>nltk.stem</code><br/>
-        <code>numpy</code>
     </td>
 </tr>
 <tr>
    <td>2</td>  
    <td>
       <b>
-         <a href="#">
-         Исследование объявлений о продаже квартир в Яндекс.Недвижимость</a>
+         <a href="https://github.com/AntonMakk/Yandex.Practicum/tree/main/2.Prospective_tariff_telecom_company">
+         Определение перспективного тарифа для телеком-компании</a>
      </b>
  </td>
  <td>
-    Изучил влияние различных факторов на стоимость недвижимости.
+    Статистический анализ данных.
 </td>
 <td>
     <code>pandas</code><br>
-    <code>matplotlib</code><br>
     <code>numpy</code><br>
-    <code>datetime</code><br>
+    <code>matplotlib</code><br>
+    <code>seaborn</code><br>
+    <code>scipy</code><br> 
 </td>
 </tr>
 <tr>
    <td>3</td>
    <td>
       <b>
-         <a href="#">
-         Определение перспективного тарифа для телеком компании</a>
+         <a href="https://github.com/AntonMakk/Yandex.Practicum/tree/main/3.Computer_games_market_research">
+         Анализ рынка компьютерных игр</a>
      </b>
  </td>
  <td>
-    Исследовал поведение клиентов телеком оператора при пользовании тарифами. Определил, какой тариф лучше.
+    Сборный проект 1
 </td>
 <td>
         <code>pandas</code><br>
+        <code>numpy</code><br>
         <code>matplotlib</code><br>
-        <code>stats</code><br>
-        <code>numpy</code><br><br>
+        <code>seaborn</code><br><br>
+        <code>scipy</code><br><br>
 </td>
 </tr>
 <tr>
    <td>4</td>
    <td>
       <b>
-         <a href="#">
-         Исследование рынка компьютерных игр</a>
+         <a href="https://github.com/AntonMakk/Yandex.Practicum/tree/main/4.Mobile_app_business_metrics_analysis">
+         Анализ бизнес-показателей приложения</a>
      </b>
  </td>
  <td>
-    Провел исследовательский анализ данных о продажах игр, составил портрет пользователей из каждого региона, 
-    спрогнозировал приоритетные направления для продаж на следующий год.
+    Анализ бизнес-показателей.
 </td>
 <td>
         <code>pandas</code><br>
         <code>matplotlib</code><br>
-        <code>stats</code><br>
+        <code>datetime</code><br>
         <code>numpy</code>
 </td>
+</tr>
 </tr>
 <tr>
    <td>5</td>
    <td>
       <b>
-         <a href="#">
-         Аналитика в авиакомпании</a>
+         <a href="https://github.com/AntonMakk/Yandex.Practicum/tree/main/5.Online_store_revenue">
+         Увеличение выручки интернет-магазина</a>
      </b>
  </td>
  <td>
-    Загрузил данные из различных источников (БД, парсинг сайта) и проанализировал их.
+    Принятие решений в бизнесе
 </td>
 <td>
         <code>pandas</code><br>
         <code>matplotlib</code><br>
-        <code>requests</code><br>
-        <code>BeautifulSoup</code><br>
-        <code>SQL</code>
+        <code>seaborn</code><br>
+        <code>numpy</code><br>
+        <code>scipy</code>
 </td>
 </tr>
 <tr>
    <td>6</td>
    <td>
       <b>
-         <a href="#">
-         Аналитика в Яндекс.Афише</a>
+         <a href="https://github.com/AntonMakk/Yandex.Practicum/tree/main/6.Catering_market">
+         Рынок заведений общественного питания</a>
      </b>
  </td>
  <td>
-    Изучил поведение пользователей сервиса и рассчитал основные бизнес-показатели: DAU/WAU/MAU, Sticky Factor, Retention Rate, LTV, ROMI.
+    Как рассказать иссторию с помощью данных
 </td>
 <td>
         <code>pandas</code><br>
         <code>matplotlib</code><br>
         <code>seaborn</code><br>
-        <code>numpy</code><br>
-        <code>scipy</code>
+        <code>plotly.express</code><br>
+        <code>plotly</code>
 </td>
 </tr>
 <tr>
    <td>7</td>
    <td>
       <b>
-         <a href="#">
-         A/B тестирование в интернет-магазине</a>
+         <a href="https://github.com/AntonMakk/Yandex.Practicum/tree/main/7.Mobile_app_AAB-test">
+         Анализ воронки продаж и результатов A/A/B-эксперимента</a>
      </b>
  </td>
  <td>
-    Приоритезировал гипотезы, проанализировал результат А/В теста: произвел расчет кумулятивной 
-    выручки, среднего чека и конверсии по группам.
+    Сборный проект 2
 </td>
 <td>
         <code>pandas</code><br>
         <code>matplotlib</code><br>
-        <code>numpy</code><br>
-        <code>datetime</code><br>
-        <code>scipy</code>
+        <code>seaborn</code><br>
+        <code>scipy</code><br>
+        <code>math</code>
 </td>
 </tr>
 <tr>
    <td>8</td>
    <td>
       <b>
-         <a href="#">
-         Анализ рынка заведений общественного питания Москвы</a>
+         <a href="https://github.com/AntonMakk/Yandex.Practicum/tree/main/8.Dashboarding">
+         Дашборд для Яндекс.Дзен
      </b>
  </td>
  <td>
-    Проанализировал данные о заведениях общественного питания Москвы. Дал рекомендации, какое заведение лучше открывать.
+    Автоматизация
 </td>
 <td>
-        <code>pandas</code><br>
-        <code>numpy</code><br>
-        <code>matplotlib</code><br>
-        <code>seaborn</code><br>
-        <code>textwrap</code><br>
-        <code>re</code>
+        <code>tableu</code>
 </td>
 </tr>
 <tr>
    <td>9</td>
    <td>
       <b>
-         <a href="#">
-         Анализ воронки продаж в мобильном приложении по продаже продуктов питания</a>
+         <a href="https://github.com/AntonMakk/Yandex.Practicum/tree/main/9.Customer_churn_forecast">
+         Разработка стратегии взаимодействия с клиентами сети фитнес-центров</a>
      </b>
  </td>
  <td>
-    Изучил все шаги воронки продаж, выявил вероятные проблемы. Исследовал результаты проведенного А/А/В-теста.
-</td>
-<td>
-        <code>pandas</code>
-        <code>matplotlib</code>
-        <code>seaborn</code>
-        <code>datetime</code>
-        <code>plotly</code>
-        <code>scipy</code>
-        <code>numpy</code>
-        <code>math</code>
-</td>
-</tr>
-<tr>
-   <td>10</td>
-   <td>
-         Дашборд для Яндекс.Дзен
- </td>
- <td>
-    Создал <a href="#">дашборд в Tableu Public</a> для менеджеров по анализу контента блог-платформы Яндекс.Дзен.
-</td>
-<td>
-        <code>Tableu</code>
-        <code>pandas</code><br>
-        <code>sqlalchemy</code><br>
-</td>
-</tr>
-<tr>
-   <td>11</td>
-   <td>
-      <b>
-         <a href="#">
-         Прогнозирование оттока клиентов фитнес-центра с помощью машинного обучения</a>
-     </b>
- </td>
- <td>
-    Составил портрет лояльных клиентов и клиентов, склонных к уходу. Построил модель прогнозирования оттока клиентов. Выполнил кластеризацию клиентов.
+    Основы машинного обучения
 </td>
 <td>
         <code>pandas</code><br>
@@ -220,18 +178,18 @@
 </td>
 </tr>
 <tr>
-   <td>12</td>
+   <td>10</td>
    <td>
       <b>
-         <a href="#">
+         <a href="https://github.com/AntonMakk/Yandex.Practicum/tree/main/10.Graduation_project">
          Выпускной проект</a>
      </b>
  </td>
  <td>
   <ol>
-   <li>Проект для банка: анализ оттока клиентов</li>
-   <li>A/B-тест: проверка результато</li>
-   <li>SQL: создание запросов</li>
+   <li>Анализ поведения пользователей в мобильном приложении</li>
+   <li>A/B-тест: оценка результатов</li>
+   <li>SQL: анализ базы данных</li>
   </ol>
 </td>
 <td>
@@ -243,7 +201,7 @@
         <code>numpy</code>
         <code>statistics</code>
         <code>scipy</code>
-        <code>sklearn</code>
+        <code>plotly</code>
 </td>
 </tr>
 </tbody>
