@@ -3,7 +3,7 @@
 # Тема: "Автоматизация"
 # Учебный проект: "Дашборд для Яндекс.Дзен"
 
-<a src = 'https://public.tableau.com/app/profile/anton1119/viz/UserinteractionwithYandex_Zen/Yandex_Zen'>Ссылка на Дашборд</a>
+<a href = 'https://public.tableau.com/app/profile/anton1119/viz/UserinteractionwithYandex_Zen/Yandex_Zen'>Ссылка на Дашборд</a>
 
 **Описание проекта**
 
