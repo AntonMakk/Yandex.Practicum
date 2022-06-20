@@ -1,7 +1,9 @@
 `tableu`
 
 # Тема: "Автоматизация"
-# Учебный проект: "<a src = 'https://public.tableau.com/app/profile/anton1119/viz/UserinteractionwithYandex_Zen/Yandex_Zen'>Дашборд для Яндекс.Дзен</a>"
+# Учебный проект: "Дашборд для Яндекс.Дзен"
+
+<a src = 'https://public.tableau.com/app/profile/anton1119/viz/UserinteractionwithYandex_Zen/Yandex_Zen'>Ссылка на Дашборд</a>
 
 **Описание проекта**
 
