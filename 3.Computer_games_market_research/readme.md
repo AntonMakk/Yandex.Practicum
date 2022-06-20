@@ -1,4 +1,4 @@
-`pandas`, `numpy`, `matplotlib`, `seaborn``scipy`.
+`pandas`, `numpy`, `matplotlib`, `seaborn`, `scipy`.
 
 # Сборный учебный проект: Анализ рынка компьютерных игр
 
