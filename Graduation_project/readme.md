@@ -101,7 +101,8 @@
 - `book_id` — идентификатор книги;
 - `username` — имя пользователя, написавшего обзор;
 - `text` — текст обзора.
-<img src='https://drive.google.com/file/d/1eHUSPkBVKPsth5QALfXNBjB5c-g1LRqL/view?usp=sharing'></img>
+<img src = 'https://drive.google.com/file/d/1eHUSPkBVKPsth5QALfXNBjB5c-g1LRqL/view?usp=sharing'>
+
 
 ## A/B-тестирование
 
