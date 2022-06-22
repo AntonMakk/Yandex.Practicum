@@ -180,7 +180,7 @@
         <code>tableu</code>
 </td>
      <td>
-     <a href='https://nbviewer.org/github/AntonMakk/Yandex.Practicum/blob/738d2fdc7edabf77c47e0c88ebea9cce020cfcb7/8.Dashboarding/Dashboard.ipynb'>Dashboarding</a>
+     -<a href='https://nbviewer.org/github/AntonMakk/Yandex.Practicum/blob/738d2fdc7edabf77c47e0c88ebea9cce020cfcb7/8.Dashboarding/Dashboard.ipynb'>Dashboarding</a><br>
 
 <a href = 'https://public.tableau.com/app/profile/anton1119/viz/UserinteractionwithYandex_Zen/Yandex_Zen' target="_blank">Ссылка на Дашборд</a>
     </td>
