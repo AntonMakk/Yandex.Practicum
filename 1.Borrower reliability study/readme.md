@@ -3,7 +3,7 @@
 # Курс "Исследовательский анализ данных"
 # Учебный проект: "Исследование надёжности заёмщиков"
 
-Посмотреть на Jupyter nbviewer:<a href='https://nbviewer.org/github/AntonMakk/Yandex.Practicum/blob/890f706f9c198eb6e17e3179f0122c8e7e899831/1.Borrower%20reliability%20study/Borrower_reliability_study.ipynb'>Borrower_reliability_study</a>
+Посмотреть на Jupyter nbviewer: <a href='https://nbviewer.org/github/AntonMakk/Yandex.Practicum/blob/890f706f9c198eb6e17e3179f0122c8e7e899831/1.Borrower%20reliability%20study/Borrower_reliability_study.ipynb'>Borrower_reliability_study</a>
 
 ## Постановка задачи
 Заказчик — кредитный отдел банка. Нужно разобраться, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок. Входные данные от банка — статистика о платёжеспособности клиентов переданы в виде csv-файла.
