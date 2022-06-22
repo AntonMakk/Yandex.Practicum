@@ -223,14 +223,14 @@
   </ol>
 </td>
 <td>
-        <code>SQL</code>
-        <code>Tableau</code>
-        <code>pandas</code>
-        <code>seaborn</code>
-        <code>matplotlib</code>
-        <code>numpy</code>
-        <code>statistics</code>
-        <code>scipy</code>
+        <code>SQL</code><br>
+        <code>Tableau</code><br>
+        <code>pandas</code><br>
+        <code>seaborn</code><br>
+        <code>matplotlib</code><br>
+        <code>numpy</code><br>
+        <code>statistics</code><br>
+        <code>scipy</code><br>
         <code>plotly</code>
 </td>
      <td>
