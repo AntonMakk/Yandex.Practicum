@@ -9,7 +9,8 @@
        <td><b>№</b></td>
        <td><b>Название проекта</b></td>
        <td><b>Курс</b></td> 
-       <td><b>Инструменты / библиотеки</b></td> 
+       <td><b>Инструменты / библиотеки</b></td>
+       <td><b>Посмотреть на Jupyter nbviewer</b></td>
    </tr> 
 </thead>
 <tbody  valign="top">
@@ -27,6 +28,9 @@
     <td>
         <code>pandas</code><br/>
         <code>pymystem3</code><br/>
+    </td>
+    <td>
+     <a href='https://nbviewer.org/github/AntonMakk/Yandex.Practicum/blob/890f706f9c198eb6e17e3179f0122c8e7e899831/1.Borrower%20reliability%20study/Borrower_reliability_study.ipynb'>Borrower_reliability_study</a>
     </td>
 </tr>
 <tr>
