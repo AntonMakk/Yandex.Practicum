@@ -234,9 +234,11 @@
         <code>plotly</code>
 </td>
      <td>
-- <a href='https://nbviewer.org/github/AntonMakk/Yandex.Practicum/blob/3977c8b2dd50bf7e13af88e1d3b28a4dc39bad84/10.Graduation_project/Analyzing_user_behavior_mobile_app.ipynb'>Analyzing_user_behavior_mobile_app</a>
-- <a href='https://nbviewer.org/github/AntonMakk/Yandex.Practicum/blob/3977c8b2dd50bf7e13af88e1d3b28a4dc39bad84/10.Graduation_project/A%3AB-testing.ipynb'>A/B-testing</a>
-- <a href='https://nbviewer.org/github/AntonMakk/Yandex.Practicum/blob/3977c8b2dd50bf7e13af88e1d3b28a4dc39bad84/10.Graduation_project/SQL.ipynb'>SQL</a>
+-<a href='https://nbviewer.org/github/AntonMakk/Yandex.Practicum/blob/3977c8b2dd50bf7e13af88e1d3b28a4dc39bad84/10.Graduation_project/Analyzing_user_behavior_mobile_app.ipynb'>Analyzing_user_behavior_mobile_app</a>
+      
+-<a href='https://nbviewer.org/github/AntonMakk/Yandex.Practicum/blob/3977c8b2dd50bf7e13af88e1d3b28a4dc39bad84/10.Graduation_project/A%3AB-testing.ipynb'>A/B-testing</a>
+      
+-<a href='https://nbviewer.org/github/AntonMakk/Yandex.Practicum/blob/3977c8b2dd50bf7e13af88e1d3b28a4dc39bad84/10.Graduation_project/SQL.ipynb'>SQL</a>
     </td>
 </tr>
 </tbody>
