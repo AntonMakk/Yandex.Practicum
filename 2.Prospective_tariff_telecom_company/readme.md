@@ -3,6 +3,8 @@
 # Курс: "Статистический анализ данных"
 # Учебный проект: "Определение перспективного тарифа для телеком-компании"
 
+Посмотреть на Jupyter nbviewer: <a href='https://nbviewer.org/github/AntonMakk/Yandex.Practicum/blob/ba47a5fd967ba7b7c71cf560ee1c77fa8096dd90/2.Prospective_tariff_telecom_company/Prospective_tariff_telecom_company.ipynb'>Prospective_tariff_telecom_company</a>
+
 ***Описание проекта***
 
 Федеральноый оператор сотовой связи «Мегалайн» предлагает клиентам два тарифных плана: «Смарт» и «Ультра». Чтобы скорректировать рекламный бюджет, коммерческий департамент хочет понять, какой тариф приносит больше денег.
