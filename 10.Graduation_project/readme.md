@@ -1,6 +1,12 @@
 `SQL`, `tableu`,`pandas`, `seaborn`, `matplotlib`, `numpy`, `statistics`, `scipy`, `plotly`.
 
 # Финальный проект: Анализ поведения пользователей в мобильном приложении. + Задания на проверку знаний тем: SQL и A/B-тестирование
+Посмотреть на Jupyter nbviewer:
+- <a href='https://nbviewer.org/github/AntonMakk/Yandex.Practicum/blob/3977c8b2dd50bf7e13af88e1d3b28a4dc39bad84/10.Graduation_project/Analyzing_user_behavior_mobile_app.ipynb'>Анализ поведения пользователей в мобильном приложении</a>
+- <a href='https://nbviewer.org/github/AntonMakk/Yandex.Practicum/blob/3977c8b2dd50bf7e13af88e1d3b28a4dc39bad84/10.Graduation_project/A%3AB-testing.ipynb'>A/B-тестирование</a>
+- <a href='https://nbviewer.org/github/AntonMakk/Yandex.Practicum/blob/3977c8b2dd50bf7e13af88e1d3b28a4dc39bad84/10.Graduation_project/SQL.ipynb'>SQL</a>
+
+
 # Анализ поведения пользователей в мобильном приложении "Ненужные вещи".
 
 **Задачи проекта:**
