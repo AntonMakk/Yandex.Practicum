@@ -10,7 +10,7 @@
        <td><b>Название проекта</b></td>
        <td><b>Курс</b></td> 
        <td><b>Инструменты / библиотеки</b></td>
-       <td><b>Посмотреть на <br>Jupyter nbviewer</b></td>
+       <td><b>Посмотреть на Jupyter nbviewer</b></td>
    </tr> 
 </thead>
 <tbody  valign="top">
