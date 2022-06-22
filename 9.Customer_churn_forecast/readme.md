@@ -3,6 +3,8 @@
 # Курс: "Основы машинного обучения"
 # Учебный проект: "Разработка стратегии взаимодействия с клиентами сети фитнес-центров"
 
+Посмотреть на Jupyter nbviewer: <a href='https://nbviewer.org/github/AntonMakk/Yandex.Practicum/blob/1b54e72e3b4bf0155c747e4cd49c095f8b3f004d/9.Customer_churn_forecast/Customer_churn_forecast.ipynb'>Customer_churn_forecast</a>
+
 **Описание проекта**
 
 Сеть фитнес-центров разрабатывает стратегию взаимодействия с клиентами на основе аналитических данных.
