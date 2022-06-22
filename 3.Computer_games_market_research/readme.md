@@ -2,6 +2,8 @@
 
 # Сборный учебный проект 1: "Анализ рынка компьютерных игр"
 
+Посмотреть на Jupyter nbviewer: <a href='https://nbviewer.org/github/AntonMakk/Yandex.Practicum/blob/a89fd9bf4313d1d09426f89f6fcd1a47d18cf2cb/3.Computer_games_market_research/Computer_games_market_research.ipynb'>Computer_games_market_research</a>
+
 ***Описание проекта***
 
 Проводится анализ от лица работника интернет-магазина «Стримчик», который продаёт по всему миру компьютерные игры. 
