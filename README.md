@@ -70,7 +70,7 @@
         <code>pandas</code><br>
         <code>numpy</code><br>
         <code>matplotlib</code><br>
-        <code>seaborn</code><br><br>
+        <code>seaborn</code><br>
         <code>scipy</code><br><br>
 </td>
      <td>
