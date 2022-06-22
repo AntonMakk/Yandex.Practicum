@@ -3,6 +3,8 @@
 # Курс: "Анализ бизнес-показателей"
 # Учебный проект: "Анализ бизнес-показателей приложения Procrastinate Pro+"
 
+Посмотреть на Jupyter nbviewer: <a href='https://nbviewer.org/github/AntonMakk/Yandex.Practicum/blob/a89fd9bf4313d1d09426f89f6fcd1a47d18cf2cb/4.Mobile_app_business_metrics_analysis/Mobile_app_business_metrics_analysis.ipynb'>Mobile_app_business_metrics_analysis</a>
+
 ***Описание проекта***
 
 Анализ проводится от лица маркетингового аналитика развлекательного приложения Procrastinate Pro+. Несколько прошлых месяцев бизнес постоянно нес убытки - в привлечение пользователей была вложена куча денег, а толку никакого. Нужно разобраться в причинах этой ситуации.
