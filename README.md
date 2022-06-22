@@ -49,7 +49,7 @@
     <code>numpy</code><br>
     <code>matplotlib</code><br>
     <code>seaborn</code><br>
-    <code>scipy</code><br> 
+    <code>scipy</code>
 </td>
      <td>
      <a href='https://nbviewer.org/github/AntonMakk/Yandex.Practicum/blob/ba47a5fd967ba7b7c71cf560ee1c77fa8096dd90/2.Prospective_tariff_telecom_company/Prospective_tariff_telecom_company.ipynb'>Prospective_tariff_telecom_company</a>
@@ -71,7 +71,7 @@
         <code>numpy</code><br>
         <code>matplotlib</code><br>
         <code>seaborn</code><br>
-        <code>scipy</code><br><br>
+        <code>scipy</code>
 </td>
      <td>
      <a href='https://nbviewer.org/github/AntonMakk/Yandex.Practicum/blob/a89fd9bf4313d1d09426f89f6fcd1a47d18cf2cb/3.Computer_games_market_research/Computer_games_market_research.ipynb'>Computer_games_market_research</a>
