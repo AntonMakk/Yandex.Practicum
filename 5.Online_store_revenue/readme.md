@@ -3,6 +3,8 @@
 # Курс: "Принятие решений в бизнесе"
 # Учебный проект: "Увеличение выручки интернет-магазина"
 
+Посмотреть на Jupyter nbviewer: <a href='https://nbviewer.org/github/AntonMakk/Yandex.Practicum/blob/0aa8602f0ec88d12db406beb20737be1f45e9a72/5.Online_store_revenue/Online_store_revenue.ipynb'>Online_store_revenue</a>
+
 Анализ проводится от лица аналитика крупного интернет-магазина. Вместе с отделом маркетинга подготовлен список гипотез для увеличения выручки.
 
 Задачи:
