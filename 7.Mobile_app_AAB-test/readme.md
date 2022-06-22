@@ -2,6 +2,8 @@
 
 # Сборный учебный проект 2: "Анализ воронки продаж и результатов A/A/B-эксперимента"
 
+Посмотреть на Jupyter nbviewer: <a href='https://nbviewer.org/github/AntonMakk/Yandex.Practicum/blob/8eaf0cb0a48531c8cad3da1d66c81de3e8ea73c1/7.Mobile_app_AAB-test/Mobile_app_A-A-B-test.ipynb'>Mobile_app_AAB-test</a>
+
 **Описание проекта**
 
 Анализ проводится от лица работкика стартапа, который продаёт продукты питания. Нужно разобраться, как ведут себя пользователи мобильного приложения.
