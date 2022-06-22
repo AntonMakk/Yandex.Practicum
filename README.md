@@ -10,7 +10,7 @@
        <td><b>Название проекта</b></td>
        <td><b>Курс</b></td> 
        <td><b>Инструменты / библиотеки</b></td>
-       <td><b>Посмотреть на Jupyter nbviewer</b></td>
+       <td><b>Посмотреть на <br>Jupyter nbviewer</b></td>
    </tr> 
 </thead>
 <tbody  valign="top">
@@ -51,6 +51,9 @@
     <code>seaborn</code><br>
     <code>scipy</code><br> 
 </td>
+     <td>
+     <a href='https://nbviewer.org/github/AntonMakk/Yandex.Practicum/blob/890f706f9c198eb6e17e3179f0122c8e7e899831/1.Borrower%20reliability%20study/Borrower_reliability_study.ipynb'>Borrower_reliability_study</a>
+    </td>
 </tr>
 <tr>
    <td>3</td>
@@ -70,6 +73,9 @@
         <code>seaborn</code><br><br>
         <code>scipy</code><br><br>
 </td>
+     <td>
+     <a href='https://nbviewer.org/github/AntonMakk/Yandex.Practicum/blob/890f706f9c198eb6e17e3179f0122c8e7e899831/1.Borrower%20reliability%20study/Borrower_reliability_study.ipynb'>Borrower_reliability_study</a>
+    </td>
 </tr>
 <tr>
    <td>4</td>
@@ -88,6 +94,9 @@
         <code>datetime</code><br>
         <code>numpy</code>
 </td>
+     <td>
+     <a href='https://nbviewer.org/github/AntonMakk/Yandex.Practicum/blob/890f706f9c198eb6e17e3179f0122c8e7e899831/1.Borrower%20reliability%20study/Borrower_reliability_study.ipynb'>Borrower_reliability_study</a>
+    </td>
 </tr>
 </tr>
 <tr>
@@ -108,6 +117,9 @@
         <code>numpy</code><br>
         <code>scipy</code>
 </td>
+     <td>
+     <a href='https://nbviewer.org/github/AntonMakk/Yandex.Practicum/blob/890f706f9c198eb6e17e3179f0122c8e7e899831/1.Borrower%20reliability%20study/Borrower_reliability_study.ipynb'>Borrower_reliability_study</a>
+    </td>
 </tr>
 <tr>
    <td>6</td>
@@ -127,6 +139,9 @@
         <code>plotly.express</code><br>
         <code>plotly</code>
 </td>
+     <td>
+     <a href='https://nbviewer.org/github/AntonMakk/Yandex.Practicum/blob/890f706f9c198eb6e17e3179f0122c8e7e899831/1.Borrower%20reliability%20study/Borrower_reliability_study.ipynb'>Borrower_reliability_study</a>
+    </td>
 </tr>
 <tr>
    <td>7</td>
@@ -146,6 +161,9 @@
         <code>scipy</code><br>
         <code>math</code>
 </td>
+     <td>
+     <a href='https://nbviewer.org/github/AntonMakk/Yandex.Practicum/blob/890f706f9c198eb6e17e3179f0122c8e7e899831/1.Borrower%20reliability%20study/Borrower_reliability_study.ipynb'>Borrower_reliability_study</a>
+    </td>
 </tr>
 <tr>
    <td>8</td>
@@ -161,6 +179,9 @@
 <td>
         <code>tableu</code>
 </td>
+     <td>
+     <a href='https://nbviewer.org/github/AntonMakk/Yandex.Practicum/blob/890f706f9c198eb6e17e3179f0122c8e7e899831/1.Borrower%20reliability%20study/Borrower_reliability_study.ipynb'>Borrower_reliability_study</a>
+    </td>
 </tr>
 <tr>
    <td>9</td>
@@ -180,6 +201,9 @@
         <code>sklearn</code><br>
         <code>scipy</code>
 </td>
+     <td>
+     <a href='https://nbviewer.org/github/AntonMakk/Yandex.Practicum/blob/890f706f9c198eb6e17e3179f0122c8e7e899831/1.Borrower%20reliability%20study/Borrower_reliability_study.ipynb'>Borrower_reliability_study</a>
+    </td>
 </tr>
 <tr>
    <td>10</td>
@@ -207,6 +231,11 @@
         <code>scipy</code>
         <code>plotly</code>
 </td>
+     <td>
+     <a href='https://nbviewer.org/github/AntonMakk/Yandex.Practicum/blob/890f706f9c198eb6e17e3179f0122c8e7e899831/1.Borrower%20reliability%20study/Borrower_reliability_study.ipynb'>Borrower_reliability_study</a>
+           <a href='https://nbviewer.org/github/AntonMakk/Yandex.Practicum/blob/890f706f9c198eb6e17e3179f0122c8e7e899831/1.Borrower%20reliability%20study/Borrower_reliability_study.ipynb'>Borrower_reliability_study</a>
+           <a href='https://nbviewer.org/github/AntonMakk/Yandex.Practicum/blob/890f706f9c198eb6e17e3179f0122c8e7e899831/1.Borrower%20reliability%20study/Borrower_reliability_study.ipynb'>Borrower_reliability_study</a>
+    </td>
 </tr>
 </tbody>
 </table>
