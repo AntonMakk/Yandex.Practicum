@@ -7,8 +7,8 @@
  <thead valign="top">
     <tr>
        <td><b>№</b></td>
-       <td><b>Название проекта</b></td>
-       <td><b>Курс</b></td> 
+       <td><b>Project name</b></td>
+       <td><b>Course</b></td> 
        <td><b>Tools /<br> libraries</b></td>
        <td><b>View on the Jupyter nbviewer</b></td>
    </tr> 
@@ -64,7 +64,7 @@
      </b>
  </td>
  <td>
-    Сборный проект 1
+    Сomplex project 1
 </td>
 <td>
         <code>pandas</code><br>
@@ -152,7 +152,7 @@
      </b>
  </td>
  <td>
-    Сборный проект 2
+    Сomplex project 2
 </td>
 <td>
         <code>pandas</code><br>
