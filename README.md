@@ -1,6 +1,6 @@
 # Yandex.Practicum
 
-# Проекты, выполненные в рамках курса "Анатитик данных" от Яндекс.Практикума.
+# Projects in the course "Data Analyst" from Yandex.Practicum.
 
 
 <table>
@@ -9,8 +9,8 @@
        <td><b>№</b></td>
        <td><b>Название проекта</b></td>
        <td><b>Курс</b></td> 
-       <td><b>Инструменты /<br> библиотеки</b></td>
-       <td><b>Посмотреть на Jupyter nbviewer</b></td>
+       <td><b>Tools /<br> libraries</b></td>
+       <td><b>View on the Jupyter nbviewer</b></td>
    </tr> 
 </thead>
 <tbody  valign="top">
@@ -19,11 +19,11 @@
        <td>
           <b>
              <a href="https://github.com/AntonMakk/Yandex.Practicum/tree/main/1.Borrower%20reliability%20study">
-             Исследование надёжности заёмщиков</a>
+             Borrower reliability study</a>
           </b>
      </td>
      <td>
-        Исследовательский анализ данных.
+        Exploratory data analysis.
     </td>
     <td>
         <code>pandas</code><br/>
@@ -38,11 +38,11 @@
    <td>
       <b>
          <a href="https://github.com/AntonMakk/Yandex.Practicum/tree/main/2.Prospective_tariff_telecom_company">
-         Определение перспективного тарифа для телеком-компании</a>
+         Determining a prospective tariff for a telecom company</a>
      </b>
  </td>
  <td>
-    Статистический анализ данных.
+    Statistical analysis of data
 </td>
 <td>
     <code>pandas</code><br>
@@ -60,7 +60,7 @@
    <td>
       <b>
          <a href="https://github.com/AntonMakk/Yandex.Practicum/tree/main/3.Computer_games_market_research">
-         Анализ рынка компьютерных игр</a>
+         Computer games market analysis</a>
      </b>
  </td>
  <td>
@@ -82,11 +82,11 @@
    <td>
       <b>
          <a href="https://github.com/AntonMakk/Yandex.Practicum/tree/main/4.Mobile_app_business_metrics_analysis">
-         Анализ бизнес-показателей приложения</a>
+         Analysis of the application's business metrics</a>
      </b>
  </td>
  <td>
-    Анализ бизнес-показателей.
+    Business metrics analysis.
 </td>
 <td>
         <code>pandas</code><br>
@@ -104,11 +104,11 @@
    <td>
       <b>
          <a href="https://github.com/AntonMakk/Yandex.Practicum/tree/main/5.Online_store_revenue">
-         Увеличение выручки интернет-магазина</a>
+         Increase in revenue for the online store</a>
      </b>
  </td>
  <td>
-    Принятие решений в бизнесе
+    Decision-making in business
 </td>
 <td>
         <code>pandas</code><br>
@@ -126,11 +126,11 @@
    <td>
       <b>
          <a href="https://github.com/AntonMakk/Yandex.Practicum/tree/main/6.Catering_market">
-         Рынок заведений общественного питания</a>
+         The catering market</a>
      </b>
  </td>
  <td>
-    Как рассказать иссторию с помощью данных
+    How to tell a story with data
 </td>
 <td>
         <code>pandas</code><br>
@@ -148,7 +148,7 @@
    <td>
       <b>
          <a href="https://github.com/AntonMakk/Yandex.Practicum/tree/main/7.Mobile_app_AAB-test">
-         Анализ воронки продаж и результатов A/A/B-эксперимента</a>
+         Analysis of the sales funnel and the results of the A/A/B experiment</a>
      </b>
  </td>
  <td>
@@ -170,11 +170,11 @@
    <td>
       <b>
          <a href="https://github.com/AntonMakk/Yandex.Practicum/tree/main/8.Dashboarding">
-         Дашборд для Яндекс.Дзен
+         Dashboard for Yandex.Zen
      </b>
  </td>
  <td>
-    Автоматизация
+    Automation
 </td>
 <td>
         <code>tableu</code>
@@ -190,11 +190,11 @@
    <td>
       <b>
          <a href="https://github.com/AntonMakk/Yandex.Practicum/tree/main/9.Customer_churn_forecast">
-         Разработка стратегии взаимодействия с клиентами сети фитнес-центров</a>
+         Development of a strategy for interaction with clients of the fitness center chain</a>
      </b>
  </td>
  <td>
-    Основы машинного обучения
+    Basics of Machine Learning
 </td>
 <td>
         <code>pandas</code><br>
@@ -212,14 +212,14 @@
    <td>
       <b>
          <a href="https://github.com/AntonMakk/Yandex.Practicum/tree/main/10.Graduation_project">
-         Выпускной проект</a>
+         Graduation project</a>
      </b>
  </td>
  <td>
   <ol>
-   <li>Анализ поведения пользователей в мобильном приложении</li>
-   <li>A/B-тест: оценка результатов</li>
-   <li>SQL: анализ базы данных</li>
+   <li>Analyzing user behavior in a mobile app</li>
+   <li>A/B test: evaluation of results</li>
+   <li>SQL: database analysis</li>
   </ol>
 </td>
 <td>
